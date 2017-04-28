@@ -40,9 +40,9 @@
     left: 170px;
   }
   .second-img {
-   bottom: inherit;
-   /*left: 138px;*/
-   margin: auto;
+   bottom: 280px;
+   left: 138px;
+   margin: inherit;
   }
   .third-img {
     left: 170px;
