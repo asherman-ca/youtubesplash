@@ -34,18 +34,18 @@
     flex-direction: column;
   }
   .first-img {
-    margin: 0 auto;
     top: 0px;
     bottom: inherit;
     right: inherit;
+    left: 170px;
   }
   .second-img {
    bottom: inherit;
-   margin: auto 0;
+   /*left: 138px;*/
+   margin: auto;
   }
   .third-img {
-    margin: 0 auto;
-    left: inherit;
+    left: 170px;
   }
 /*third section*/
   .third div {
